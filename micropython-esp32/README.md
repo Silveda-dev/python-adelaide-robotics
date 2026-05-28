@@ -1,0 +1,1 @@
+Intended for use with the [Wokwi simulator](https://wokwi.com/projects/new/micropython-esp32) of MicroPython on ESP32.
